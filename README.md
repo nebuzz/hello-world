@@ -1,2 +1,5 @@
 # hello-world
-another repository
+
+hi everyone
+
+I learn python!
